@@ -202,21 +202,7 @@ Currently sharpening my skills and building toward contributing to products used
 <!--                    CONTRIBUTION GRAPH                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
 
-### ◈ Contribution Map ◈
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hardik56-git&bg_color=0d1117&color=00d4ff&line=00d4ff&point=7de8ff&area=true&area_color=00d4ff&hide_border=true&title_color=00d4ff&custom_title=Hardik's%20Contribution%20Graph" width="95%"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     CONNECT WITH ME                           -->
