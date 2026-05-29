@@ -1,75 +1,253 @@
-<h1 align="center">Hi 👋, I'm Hardik</h1>
-<h3 align="center">Full Stack Developer | Building clean, modern web experiences</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Python+%7C+Flask;Learning+and+building+every+day;Interested+in+Japanese+tech+companies" alt="Typing SVG" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HERO HEADER                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a192f,100:00d4ff&height=200&section=header&text=Hardik&fontSize=70&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=22&descColor=7de8ff&animation=fadeIn" width="100%"/>
 
-## 👨‍💻 About Me
+</div>
 
-I'm Hardik, a passionate full stack developer who enjoys building practical and responsive web applications.  
-I work with modern frontend and backend technologies, and I’m always learning new things to improve my skills.
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED TYPING INTRO                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-🇯🇵 I’m especially interested in Japanese companies and the kind of work culture where quality, discipline, and continuous improvement matter.
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Welcome+to+my+digital+workspace+%F0%9F%9A%80;Building+products+that+matter+%E2%9C%A8;Full+Stack+%7C+React+%7C+Flask+%7C+Python;Clean+code.+Sharp+design.+Infinite+growth.;%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E8%A8%80%E8%AA%9E%E3%81%A7%E3%81%82%E3%82%8B+%E2%80%94+Code+is+a+language.)](https://git.io/typing-svg)
 
-## 🛠️ Skills
+</div>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,python,flask,sqlite,git,vscode" />
-</p>
+<br/>
 
-- HTML
-- CSS
-- Tailwind CSS
-- JavaScript
-- React
-- Python
-- Flask
-- SQLite
-- Git
-- VS Code
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:0d1117&height=2&section=header" width="100%"/>
 
-## 🌱 Currently Focusing On
+<br/>
 
-- Full stack development
-- Building real-world projects
-- Improving React and Flask
-- Preparing for opportunities in Japanese tech companies
+<div align="center">
 
----
+```
+  ██╗  ██╗ █████╗ ██████╗ ██████╗ ██╗██╗  ██╗
+  ██║  ██║██╔══██╗██╔══██╗██╔══██╗██║██║ ██╔╝
+  ███████║███████║██████╔╝██║  ██║██║█████╔╝ 
+  ██╔══██║██╔══██║██╔══██╗██║  ██║██║██╔═██╗ 
+  ██║  ██║██║  ██║██║  ██║██████╔╝██║██║  ██╗
+  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝
+```
 
-## ✨ Bio
+</div>
 
-I am a self-motivated full stack learner who enjoys turning ideas into working products.  
-I like clean design, practical code, and building projects that solve real problems.  
-My goal is to grow as a developer and contribute to a strong tech team, especially in Japan.
+<br/>
 
----
+<div align="center">
 
-## 🌐 Connect with Me
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/hardik-68b783322" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hardik-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+### `> whoami`
 
----
+```yaml
+name:     Hardik
+role:     Full Stack Developer
+location: India  🇮🇳
+status:   Building & Learning Daily ⚡
+mindset:  改善 (Kaizen — Continuous Improvement)
+```
 
-## 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardik56-git&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+I'm a **Full Stack Developer** driven by clean architecture, minimal interfaces, and code that scales. I build web applications end-to-end — from pixel-perfect React frontends to robust Flask APIs backed by structured databases.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardik56-git&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+Inspired by the **Japanese engineering philosophy** of *Kaizen* — I believe every project, every function, every line of code can always be made better. Precision, discipline, and craftsmanship guide my work.
 
----
+Currently sharpening my skills and building toward contributing to products used at scale. Open to **collaborations**, **open source**, and **creative challenges**.
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<br/>
+
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      SKILLS & TOOLS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ⟨ Skills & Technologies ⟩
+
+<br/>
+
+**Frontend**
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+
+<br/>
+
+**Backend & Database**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
+
+<br/>
+
+**Tools & Environment**
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hardik56-git)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+
+</div>
+
+<br/>
+
+<!-- Skill Icons Row -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,flask,sqlite,git,vscode&theme=dark&perline=10" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CURRENT FOCUS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 〔 Current Focus 〕
+
+<br/>
+
+| 🎯 Focus Area | 📌 Description |
+|:---:|:---|
+| ⚛️ **React Mastery** | Deep-diving into hooks, state management & component architecture |
+| 🐍 **Python & Flask** | Building RESTful APIs with clean routing and database integration |
+| 🎨 **UI/UX Design** | Crafting pixel-perfect, responsive interfaces with Tailwind CSS |
+| 🌏 **Global Mindset** | Exploring tech ecosystems — particularly inspired by Japanese engineering |
+| 📦 **Open Source** | Contributing to community projects and building in public |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ⌬ GitHub Analytics ⌬
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hardik56-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik56-git&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STREAK STATS                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hardik56-git&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=7de8ff&dates=c9d1d9&stroke=00d4ff&currStreakNum=ffffff&sideNums=ffffff" width="70%" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CONTRIBUTION GRAPH                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ◈ Contribution Map ◈
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hardik56-git&bg_color=0d1117&color=00d4ff&line=00d4ff&point=7de8ff&area=true&area_color=00d4ff&hide_border=true&title_color=00d4ff&custom_title=Hardik's%20Contribution%20Graph" width="95%"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT WITH ME                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ≫ Connect With Me ≪
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-68b783322)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hardik56-git)
+
+<br/>
+
+```
+"The expert in anything was once a beginner."
+   — The best engineers never stop learning.
+```
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hardik56-git&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PROFESSIONAL FOOTER                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a192f,100:0d0d0d&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00d4ff&fontAlignY=65&desc=%E6%88%90%E9%95%B7%E3%81%97%E7%B6%9A%E3%81%91%E3%82%8B%20%E2%80%94%20Keep%20growing%2C%20keep%20building.&descAlignY=85&descSize=13&descColor=7de8ff&animation=fadeIn" width="100%"/>
