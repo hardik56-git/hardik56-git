@@ -75,5 +75,5 @@ My goal is to grow as a developer and contribute to a strong tech team, especial
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:7C3AED&height=120&section=footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardik56-git&theme=tokyo-night&hide_border=true" />
 </p>
