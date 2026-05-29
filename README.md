@@ -155,7 +155,6 @@ Currently sharpening my skills and building toward contributing to products used
 
 <div align="center">
 
-### ⌬ GitHub Analytics ⌬
 
 <br/>
 
