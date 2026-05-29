@@ -73,7 +73,3 @@ My goal is to grow as a developer and contribute to a strong tech team, especial
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardik56-git&theme=tokyo-night&hide_border=true" />
-</p>
