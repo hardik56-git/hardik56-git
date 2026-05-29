@@ -69,7 +69,7 @@ My goal is to grow as a developer and contribute to a strong tech team, especial
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik56-git&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hardik56-git&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
