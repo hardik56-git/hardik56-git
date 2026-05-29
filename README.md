@@ -170,15 +170,10 @@ Currently sharpening my skills and building toward contributing to products used
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hardik56-git&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=7de8ff&dates=c9d1d9&stroke=00d4ff&currStreakNum=ffffff&sideNums=ffffff" width="70%" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hardik56-git&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=7de8ff&dates=c9d1d9&stroke=00d4ff&currStreakNum=ffffff&sideNums=ffffff&type=svg" width="70%" />
 </div>
-
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
