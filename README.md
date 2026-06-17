@@ -26,14 +26,3 @@
 <tr>
 <td width="55%" valign="top">
 
-### `// CORE_PROTOCOLS_`
-
-json
-{
-  "identity": "Hardik",
-  "classification": "Full Stack Developer",
-  "coordinates": "India 🇮🇳",
-  "operation_status": "Active // Building Daily ⚡",
-  "core_philosophy": "改善 (Kaizen — Continuous Iteration)"
-}
-I am a Full Stack Developer specializing in clean digital architecture, immersive interfaces, and highly scalable subsystems. My builds range from pixel-perfect, high-performance React frontends to robust, ultra-secure Flask backend APIs.🛸 DATA_LOG [Kaizen]: Driven by the Japanese engineering principle of continuous refinement, I treat code as a living machine. Every function, endpoint, and interface is engineered for absolute precision and efficiency.Currently deploying advanced patterns and scaling network architectures. Open to global collaborations, open-source mainframe contributions, and complex engineering challenges.⟨ TECH_MATRICES ⟩SYSTEM_LAYERTECHNOLOGY_INTEGRATIONSFRONTEND // ENGINE    BACKEND // CORES  DEV_TOOLS // CONTROL  〔 MISSION_OBJECTIVES 〕⚡ VECTOR📌 TARGET PARAMETERS⚛️ React MasteryOverhauling state mechanics, optimizing custom hooks, and minimizing render latencies.🐍 Python & FlaskArchitectural designs for ultra-clean REST APIs, route shielding, and DB query optimizations.🎨 UI/UX CraftsmanshipDeveloping responsive, accessible, and high-fidelity interfaces utilizing Tailwind CSS frameworks.🌏 Global VectorStudying bleeding-edge international ecosystems, highly inspired by flawless technical designs.📦 Open SourceDeploying in public repositories, peer auditing codebases, and expanding open software grids.📊 QUANTUM_METRICS≫ LINK_ESTABLISHMENT ≪
