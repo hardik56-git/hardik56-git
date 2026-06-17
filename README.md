@@ -156,12 +156,7 @@ Currently sharpening my skills and building toward contributing to products used
 <div align="center">
 
 
-<br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hardik56-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik56-git&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
-
-</div>
 
 <br/>
 
