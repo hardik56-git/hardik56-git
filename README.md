@@ -1,36 +1,92 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO HEADER                           -->
+<!--                   🚀 NEO HERO HEADER 2026                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a192f,100:00d4ff&height=220&section=header&text=Hardik&fontSize=75&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Crafting%20Digital%20Experiences&descAlignY=60&descSize=20&descColor=7de8ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1b2a,100:00d4ff&height=250&section=header&text=Hardik&fontSize=55&fontColor=00d4ff&fontAlignY=40&desc=Full%20Stack%20%7C%20React%20%7C%20Python&descAlignY=62&descSize=18&descColor=7de8ff&animation=twinkling" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      ANIMATED TYPING INTRO                    -->
+<!--                 🌟 GLITCH EFFECT NAME BADGE                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=750&lines=Welcome+to+my+digital+workspace+%F0%9F%9A%80;Building+products+that+matter+%E2%9C%A8;Full+Stack+%7C+React+%7C+Flask+%7C+Python;Clean+code.+Sharp+design.+Infinite+growth.;%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E8%A8%80%E8%AA%9E%E3%81%A7%E3%81%82%E3%82%8B+%E2%80%94+Code+is+a+language.)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=550&height=50&lines=⚡+Full+Stack+Developer+%7C+2026+Vision+⚡;Building+The+Future+%F0%9F%9A%80;Code+%3D+Art+%2B+Logic+%E2%9C%A8;%23Kaizen+%7C+%23Innovation+%F0%9F%8C%8D;Redmi+Optimized+%F0%9F%93%B1)](https://git.io/typing-svg)
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   🌌 COSMIC STATUS BAR                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/STATUS-CODING%20IN%202026-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/VERSION-v3.0.0-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/DEVICE-REDMI%20OPTIMIZED-00d4ff?style=for-the-badge&logo=xiaomi&logoColor=white&labelColor=0d1117"/>
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                             ABOUT ME                          -->
+<!--                   🎯 QUICK STATS GRID                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<table border="0">
+<table>
 <tr>
-<td width="55%" valign="top">
+<td align="center" width="33%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=150&height=30&lines=🇮🇳+India"/>
+  <br/>
+  <sub>📍 Location</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=150&height=30&lines=⚡+22+Years"/>
+  <br/>
+  <sub>🎂 Age</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=1000&color=7DE8FF&center=true&vCenter=true&width=150&height=30;lines=🎯+2026+Vision"/>
+  <br/>
+  <sub>🚀 Mission</sub>
+</td>
+</tr>
+</table>
 
-### `> whoami`
+</div>
 
-```yaml
-name:     Hardik
-role:     Full Stack Developer
-location: India 🇮🇳
-status:   Building & Learning Daily ⚡
-mindset:  改善 (Kaizen — Continuous Improvement)
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 🌀 ANIMATED DIVIDER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   👨‍💻 ABOUT ME                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `⚡ // DIGITAL ARCHITECT`
+
+<br/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2s4ZzU0dHp6bG5qbTl6cWZvN2g4aXJpZ3ZxbDZqZ2s5cG02bGw2ZyZlcD12X2ZpcnN0X2dpZl9pbmZvJnN0PXRyZw&cid=ecf05e4787rkpzzw3x3t6qjgfj3a6v8nq5h2kdj7gkz8u7lq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="280" style="border-radius: 16px; box-shadow: 0 0 30px rgba(0,212,255,0.3);"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center">
+
+```javascript
+const Hardik = {
+  role: "Full Stack Developer",
+  mission: "Build products that impact millions",
+  philosophy: "Kaizen - Continuous Improvement",
+  currentFocus: "React Mastery & System Design",
+  funFact: "I speak 3 languages: Code, English, Hindi"
+};
