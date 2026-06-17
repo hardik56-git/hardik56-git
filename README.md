@@ -28,7 +28,7 @@
 
 ### `// CORE_PROTOCOLS_`
 
-```json
+json
 {
   "identity": "Hardik",
   "classification": "Full Stack Developer",
