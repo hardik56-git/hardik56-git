@@ -1,7 +1,9 @@
+<!-- HERO HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a192f,100:00d4ff&height=220&section=header&text=Hardik&fontSize=75&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Crafting%20Digital%20Experiences&descAlignY=60&descSize=20&descColor=7de8ff&animation=fadeIn" width="100%"/>
 </p>
 
+<!-- ANIMATED TYPING INTRO -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=750&lines=Welcome+to+my+digital+workspace+%F0%9F%9A%80;Building+products+that+matter+%E2%9C%A8;Full+Stack+%7C+React+%7C+Flask+%7C+Python;%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E8%A8%80%E8%AA%9E%E3%81%A7%E3%81%82%E3%82%8B+%E2%80%94+Code+is+a+language." alt="Typing SVG" />
@@ -34,13 +36,12 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### DevOps & Tools
+### Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
