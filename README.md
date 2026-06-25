@@ -1,102 +1,60 @@
-# 🚀 Hardik Sharma | Full Stack Developer
-
+<!-- HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00d4ff,100:0a192f&text=Hardik%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Japanese%20Learner%20%7C%20Open%20Source%20Enthusiast&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a192f,100:00d4ff&height=220&section=header&text=Hardik&fontSize=75&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Crafting%20Digital%20Experiences&descAlignY=60&descSize=20&descColor=7de8ff&animation=fadeIn" width="100%"/>
 </p>
 
+<!-- ANIMATED TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Building+Modern+Web+Applications;Full+Stack+Developer;React+%7C+Python+%7C+Flask;JLPT+N4+Japanese+Learner;Always+Learning+Something+New" />
-</p>
-
-<p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=750&lines=Welcome+to+my+digital+workspace+%F0%9F%9A%80;Building+products+that+matter+%E2%9C%A8;Full+Stack+%7C+React+%7C+Flask+%7C+Python;%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E8%A8%80%E8%AA%9E%E3%81%A7%E3%81%82%E3%82%8B+%E2%80%94+Code+is+a+language." alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 💫 About Me
 
-Hi, I'm **Hardik** 👋
+🚀 **Hi, I'm Hardik!** A passionate Full Stack Developer dedicated to building clean, scalable, and user-centric digital solutions. I love bridging the gap between robust backend logic and beautiful frontend design.
 
-🎓 B.Com Student
-
-💻 Learning Full Stack Development
-
-🇯🇵 JLPT N4 Aspirant
-
-📚 Currently completing CS50 and learning Java
+- 🧠 **Currently focusing on:** Advanced architecture, systems design, and polishing my Japanese language skills.
+- ⚡ **Fun Fact:** "コードは言語である" — I believe code is just another beautiful language to master.
+- 🌱 **Goal:** To build impactful open-source tools and high-performance web applications.
 
 ---
 
-## 🎯 Current Focus
+## 🛠️ Tech Stack & Tools
 
-* Building Full Stack Projects
-* Learning React
-* Learning Flask
-* Studying Java
-* Japanese Language (JLPT N4)
-* Open Source Contributions
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
----
+### Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-## 🏆 2026 Goals
-
-* ✅ Complete CS50
-* 🚀 Build 5 Portfolio Projects
-* 🚀 Contribute to Open Source
-* 🚀 Pass JLPT N4
-* 🚀 Get Developer Internship
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,sqlite,java,git,github,vscode"/>
-
+### Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hardik56-git&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik56-git&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=hardik56-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik56-git&theme=tokyonight&hide_border=true&background=0a192f" width="48%" />
 </p>
 
 ---
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik56-git&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hardik56-git&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -105,90 +63,7 @@ Hi, I'm **Hardik** 👋
 
 </p>
 
----
-
-# 🚀 Featured Projects
-
-### 🌐 Portfolio Website
-
-Personal portfolio showcasing projects and skills.
-
-### 📝 Task Management App
-
-A productivity-focused task manager built with Flask.
-
-### 🇯🇵 Japanese Learning Toolkit
-
-Tools and resources for Japanese language learners.
-
-### 🤖 Future AI Projects
-
-AI-powered applications and experiments.
-
----
-
-# 🗺 Developer Journey
-
-```text
-2025
-├── HTML/CSS ✅
-├── Git & GitHub ✅
-├── Japanese N5 ✅
-└── Python Basics ✅
-
-2026
-├── CS50 🚀
-├── React 🚀
-├── Flask 🚀
-├── Java 🚀
-├── JLPT N4 🚀
-└── Open Source 🚀
-
-Future
-├── Full Stack Engineer
-├── Open Source Contributor
-└── Software Developer
-```
-
-# 🇯🇵 Japanese Progress
-
-### Completed
-
-✅ Hiragana
-
-✅ Katakana
-
-✅ JLPT N5
-
-### Current Goal
-
-🚀 JLPT N4
-
-### Studying
-
-📘 Minna no Nihongo
-
-📘 Grammar
-
-📘 Vocabulary
-
-📘 Reading (Dokkai)
-
-📘 Kanji
-
----
-
-# 💡 Philosophy
-
-> コードは言語である
->
-> Code is a language.
->
-> Every project tells a story.
-
----
-
-# 📫 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
 
@@ -196,20 +71,8 @@ Future
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=hardik56-git&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS"/>
-
-</p>
-
-<p align="center">
-⭐ Thanks for visiting my profile ⭐
 </p>
