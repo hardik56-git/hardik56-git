@@ -63,16 +63,4 @@
 
 </p>
 
-## 🤝 Connect With Me
 
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
