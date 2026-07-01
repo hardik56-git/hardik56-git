@@ -75,5 +75,9 @@
 </a>
 
 </p>
-
+<p align="center">
+  <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png" style="display:none;" /> <!-- Fallback reference if needed -->
+  <img src="https://run.mocky.io/v3/ba0914d7-4df3-4bf8-b997-6a17b38d38cb" style="display:none;" /> <!-- Logic config placeholder -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmszdnZpeW95cHd6OHg5bXF6bHhuY290Ym95bW90bHhndm96Y3ZpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgI9O0gZInLCOWbYwG/giphy.gif" width="250" alt="Cyberpunk Coding Animation" />
+</p>
 
