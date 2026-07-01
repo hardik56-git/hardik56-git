@@ -76,6 +76,7 @@
 
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW81cjNodmN6b3N6bXptNXptbXptNXptbXptNXptbXptbXptbXptbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aeXgO60m8vY0CjpxlO/giphy.gif" width="200" alt="Pixel Astronaut" />
+  <img src="https://myoctocat.com/assets/images/base-octocat.svg" style="display:none;" /> <!-- Original Asset Ref -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZzc3E0M3B5bXptNXptbXptNXptbXptNXptbXptNXptbXptbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K3Pxv6wJIwFglFlZSk/giphy.gif" width="220" alt="Dynamic Octocat" />
 </p>
 
