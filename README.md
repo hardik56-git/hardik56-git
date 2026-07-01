@@ -75,8 +75,16 @@
 </a>
 
 </p>
+<!-- CYBERPUNK MOTION CHARACTER SECTION -->
 <p align="center">
-  <img src="https://myoctocat.com/assets/images/base-octocat.svg" style="display:none;" /> <!-- Original Asset Ref -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZzc3E0M3B5bXptNXptbXptNXptbXptNXptbXptNXptbXptbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K3Pxv6wJIwFglFlZSk/giphy.gif" width="220" alt="Dynamic Octocat" />
+  <a href="https://github.com/hardik56-git">
+    <img src="https://i.postimg.cc/9M7g3f9v/cyberpunk-rider-motion.gif" width="100%" alt="Hardik - Cyberpunk Speedster Motion" />
+  </a>
 </p>
+
+<!-- OPTIONAL: IF YOU WANT A smaller centered version, use this instead:
+<p align="center">
+  <img src="https://i.postimg.cc/9M7g3f9v/cyberpunk-rider-motion.gif" width="600" alt="Cyberpunk Motion" />
+</p>
+-->
 
