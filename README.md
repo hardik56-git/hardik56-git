@@ -76,15 +76,13 @@
 
 </p>
 <!-- CYBERPUNK MOTION CHARACTER SECTION -->
+---
+
+## 🏆 My Tech Achievements
+
 <p align="center">
-  <a href="https://github.com/hardik56-git">
-    <img src="https://i.postimg.cc/9M7g3f9v/cyberpunk-rider-motion.gif" width="100%" alt="Hardik - Cyberpunk Speedster Motion" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hardik56-git&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Hardik's GitHub Trophies" />
   </a>
 </p>
-
-<!-- OPTIONAL: IF YOU WANT A smaller centered version, use this instead:
-<p align="center">
-  <img src="https://i.postimg.cc/9M7g3f9v/cyberpunk-rider-motion.gif" width="600" alt="Cyberpunk Motion" />
-</p>
--->
 
