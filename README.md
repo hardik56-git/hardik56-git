@@ -78,11 +78,13 @@
 <!-- CYBERPUNK MOTION CHARACTER SECTION -->
 ---
 
-## 🏆 My Tech Achievements
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hardik56-git&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Hardik's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hardik56-git&theme=dracula&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Hardik's GitHub Trophies" />
   </a>
 </p>
 
