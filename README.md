@@ -78,10 +78,12 @@
 
 ---
 
-## 🌸 Daily Inspiration / 今日の言葉
+---
+
+## 🌌 Core Matrix / 核心マトリクス
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.com/api?type=horizontal&theme=tokyonight" alt="Daily Japanese Quote" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik56-git&layout=compact&theme=tokyonight&langs_count=7&card_width=450" alt="Hardik's Top Languages" />
 </p>
 
 
