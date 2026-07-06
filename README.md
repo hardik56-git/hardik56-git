@@ -76,6 +76,12 @@
 
 </p>
 
+---
 
+## 🌸 Daily Inspiration / 今日の言葉
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.com/api?type=horizontal&theme=tokyonight" alt="Daily Japanese Quote" />
+</p>
 
 
