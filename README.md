@@ -80,10 +80,11 @@
 
 ---
 
-## 🌌 Core Matrix / 核心マトリクス
+---
+
+## 🖥️ System Core / Git Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik56-git&layout=compact&theme=tokyonight&langs_count=7&card_width=450" alt="Hardik's Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardik56-git&theme=tokyonight&area=true" width="100%" alt="Hardik's Activity Graph" />
 </p>
-
 
