@@ -75,4 +75,13 @@
 </a>
 
 </p>
+---
+
+## 🌐 Global Matrix / Visitor Tracker
+
+<p align="center">
+  <a href="https://github.com/hardik56-git">
+    <img src="https://gco-badge.vercel.app/api/v1/badge?username=hardik56-git&theme=dark" alt="Visitor Map" />
+  </a>
+</p>
 
