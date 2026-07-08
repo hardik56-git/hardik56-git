@@ -79,9 +79,11 @@
 
 ---
 
-## 🎵 Code & Chill / Current Vibe
+## 🕹️ Cyber Terminal Skills
 
 <p align="center">
-  <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?theme=tokyonight" alt="Spotify Now Playing" />
+  <img src="https://skillicons.dev/icons?i=react,js,python,flask,sqlite,git,vscode,github&theme=dark" />
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=40&text=🔥%20HARDWARE%20CONNECTED%20%7C%20READY%20TO%20BUILD%20🔥&fontSize=14&fontColor=00d4ff&animation=twinkling" width="600px"/>
+</p>
