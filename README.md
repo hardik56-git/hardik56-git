@@ -80,10 +80,9 @@
 ---
 ---
 
-## 🌍 World Grid / Visitor Flags
+## 🌌 Core Matrix / System Stats
 
 <p align="center">
-  <a href="https://github.com/hardik56-git">
-    <img src="https://s11.flagcounter.com/map/hardik56-git/size_m/bg_0A192F/txt_00D4FF/border_0D0D0D/flags_0/tags_1/" alt="Flag Counter">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hardik56-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik56-git&layout=compact&theme=tokyonight&langs_count=6" width="48%" />
 </p>
