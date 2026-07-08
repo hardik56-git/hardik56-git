@@ -78,11 +78,24 @@
 ---
 
 ---
----
 
-## 🌌 Core Matrix / System Stats
+## 🛠️ FEATURED ARCHITECTURE / PROJECTS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardik56-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik56-git&layout=compact&theme=tokyonight&langs_count=6" width="48%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Web Apps & APIs</h4>
+      <ul>
+        <li><b>Flask Backend Matrix</b> - Clean & scalable architecture</li>
+        <li><b>React Interface</b> - Responsive & modern UI experiences</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🇯🇵 Language Integration</h4>
+      <ul>
+        <li><b>Language Core</b> - Bridging syntax and linguistics</li>
+        <li><b>Code is a Language</b> - "コードは言語である" Philosophy</li>
+      </ul>
+    </td>
+  </tr>
+</table>
