@@ -76,9 +76,3 @@
 
 </p>
 
-
-## 🖥️ System Core / Git Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardik56-git&theme=tokyonight&area=true" width="100%" alt="Hardik's Activity Graph" />
-</p>
