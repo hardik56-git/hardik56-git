@@ -78,12 +78,12 @@
 ---
 
 ---
+---
 
-## 🕹️ Cyber Terminal Skills
+## 🌍 World Grid / Visitor Flags
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,python,flask,sqlite,git,vscode,github&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=40&text=🔥%20HARDWARE%20CONNECTED%20%7C%20READY%20TO%20BUILD%20🔥&fontSize=14&fontColor=00d4ff&animation=twinkling" width="600px"/>
+  <a href="https://github.com/hardik56-git">
+    <img src="https://s11.flagcounter.com/map/hardik56-git/size_m/bg_0A192F/txt_00D4FF/border_0D0D0D/flags_0/tags_1/" alt="Flag Counter">
+  </a>
 </p>
