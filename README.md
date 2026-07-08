@@ -79,9 +79,9 @@
 
 ---
 
-## ⚡ Current Quest: JLPT N3 Mode
+## 🎵 Code & Chill / Current Vibe
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=60&text=HARDIK%20%E2%94%83%20%E6%BA%80%E7%82%B9%20%E2%9A%A1%20LEVEL%20UP&fontSize=18&fontColor=00d4ff&animation=fadeIn&fontAlignY=50" width="100%"/>
+  <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?theme=tokyonight" alt="Spotify Now Playing" />
 </p>
 
