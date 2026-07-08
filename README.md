@@ -77,11 +77,11 @@
 </p>
 ---
 
-## 🌐 Global Matrix / Visitor Tracker
+---
+
+## ⚡ Current Quest: JLPT N3 Mode
 
 <p align="center">
-  <a href="https://github.com/hardik56-git">
-    <img src="https://gco-badge.vercel.app/api/v1/badge?username=hardik56-git&theme=dark" alt="Visitor Map" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=60&text=HARDIK%20%E2%94%83%20%E6%BA%80%E7%82%B9%20%E2%9A%A1%20LEVEL%20UP&fontSize=18&fontColor=00d4ff&animation=fadeIn&fontAlignY=50" width="100%"/>
 </p>
 
