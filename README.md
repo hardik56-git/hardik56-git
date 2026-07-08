@@ -79,23 +79,10 @@
 
 ---
 
-## 🛠️ FEATURED ARCHITECTURE / PROJECTS
+## 🌌 SYSTEM OPERATOR STATUS
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Web Apps & APIs</h4>
-      <ul>
-        <li><b>Flask Backend Matrix</b> - Clean & scalable architecture</li>
-        <li><b>React Interface</b> - Responsive & modern UI experiences</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🇯🇵 Language Integration</h4>
-      <ul>
-        <li><b>Language Core</b> - Bridging syntax and linguistics</li>
-        <li><b>Code is a Language</b> - "コードは言語である" Philosophy</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/QUEST-JLPT_N3_MODE-00D4FF?style=for-the-badge&logo=target&logoColor=white" alt="JLPT Quest" />
+  <img src="https://img.shields.io/badge/SYSTEM_CORE-ONLINE-00FF66?style=for-the-badge&logo=cpu&logoColor=white" alt="System Status" />
+  <img src="https://img.shields.io/badge/CURRENT_VIBE-CODE_%26_CHILL-FF007F?style=for-the-badge&logo=spotify&logoColor=white" alt="Current Vibe" />
+</p>
