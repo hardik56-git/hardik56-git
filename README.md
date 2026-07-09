@@ -77,12 +77,4 @@
 </p>
 ---
 
----
 
-## 🌌 SYSTEM OPERATOR STATUS
-
-<p align="center">
-  <img src="https://img.shields.io/badge/QUEST-JLPT_N3_MODE-00D4FF?style=for-the-badge&logo=target&logoColor=white" alt="JLPT Quest" />
-  <img src="https://img.shields.io/badge/SYSTEM_CORE-ONLINE-00FF66?style=for-the-badge&logo=cpu&logoColor=white" alt="System Status" />
-  <img src="https://img.shields.io/badge/CURRENT_VIBE-CODE_%26_CHILL-FF007F?style=for-the-badge&logo=spotify&logoColor=white" alt="Current Vibe" />
-</p>
