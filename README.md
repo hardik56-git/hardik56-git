@@ -75,5 +75,16 @@
 </a>
 
 </p>
+---
+
+## ⛩️ [ SYSTEM INITIALIZATION ]
+
+ansi
+[1;36m[▼] LOADING TERMINAL DEPLOYMENT...[0m
+[1;32m■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 100%[0m
+
+[1;33m» USER_CORE   :[0m [1;35mHARDIK_56[0m
+[1;33m» QUEST_MODE  :[0m [1;36mJAPANESE_JLPT_N3_ACTIVE 🇯🇵[0m
+[1;33m» STATUS      :[0m [1;31m0.1%_ELITE_TERMINAL_CONNECTED ⚡[0m
 
 
