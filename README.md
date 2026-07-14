@@ -84,5 +84,5 @@
 </p>
 
 <p align="center">
-  <sub>Designed with by <b>Hardik</b> © 2026</sub>
+  <sub>Designed by <b>Hardik</b> © 2026</sub>
 </p>
