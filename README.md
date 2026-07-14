@@ -76,15 +76,19 @@
 
 </p>
 ---
+---
 
-## ⛩️ [ SYSTEM INITIALIZATION ]
+<!-- 100% WORKING 0.1% ELITE ANIMATED FOOTER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="3px" alt="Animated Neon Line" />
+</p>
 
-ansi
-[1;36m[▼] LOADING TERMINAL DEPLOYMENT...[0m
-[1;32m■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 100%[0m
+<p align="center">
+  <code><b>⚡ SYSTEM STATUS: HARDWARE CONNECTED // NEXT QUEST INITIALIZING... ⚡</b></code>
+</p>
 
-[1;33m» USER_CORE   :[0m [1;35mHARDIK_56[0m
-[1;33m» QUEST_MODE  :[0m [1;36mJAPANESE_JLPT_N3_ACTIVE 🇯🇵[0m
-[1;33m» STATUS      :[0m [1;31m0.1%_ELITE_TERMINAL_CONNECTED ⚡[0m
-
-
+<p align="center">
+  <sub><b>コアマトリクス終了 // END OF LINE.</b></sub>
+  <br>
+  <sub>Designed with 🩵 by <b>Hardik</b> © 2026</sub>
+</p>
