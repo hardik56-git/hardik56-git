@@ -78,11 +78,4 @@
 ---
 ---
 
-<!-- 100% TESTED ELITE CYBERPUNK BANNER FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a192f,100:0d0d0d&height=120&section=footer&text=HARDIK%20%7C%20%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E8%A8%80%E8%AA%9E%E3%81%A7%E3%81%82%E3%82%8B&fontSize=22&fontColor=00d4ff&fontAlignY=65&animation=fadeIn" width="100%"/>
-</p>
 
-<p align="center">
-  <sub>Designed by <b>Hardik</b> © 2026</sub>
-</p>
