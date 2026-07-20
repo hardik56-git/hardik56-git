@@ -76,8 +76,5 @@
 
 </p>
 
-<!-- VISITORS COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/normal-badge/?username=hardik56-git&color=00d4ff&style=flat-square&label=PROFILE+VIEWS+👀" alt="Views" />
-</p>
+
 
