@@ -62,19 +62,7 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-## 🤝 Connect With Me
 
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
 
 
 
