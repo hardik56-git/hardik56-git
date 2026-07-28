@@ -62,17 +62,6 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
----
-
-## 🎨 Culinary ASCII Art & Theme Vibe
-
-> *"Bringing fine dining to the digital world — Byte by Byte."*
-
-```text
-       ___                                   _     ___   _                  
-      / __|  ___  _  _  _ _  _ __   ___ | |_  | _ \ | | __ _  __  ___ 
-     | (_ | / _ \| || || '_|| '  \ / -_)|  _| |  _/ | |/ _` |/ _|/ -_)
-      \___| \___/ \_,_||_|  |_|_|_|\___| \__| |_|   |_|\__,_|\__|\___|
 
 
 
