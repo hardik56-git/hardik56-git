@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 
-🚀 **Hi, I'm Hardik!** A passionate Full Stack Developer dedicated to building clean, scalable, and user-centric digital solutions. I love bridging the gap between robust backend logic and beautiful frontend design.
+ **Hi, I'm Hardik!** A passionate Full Stack Developer dedicated to building clean, scalable, and user-centric digital solutions. I love bridging the gap between robust backend logic and beautiful frontend design.
 
 - 🧠 **Currently focusing on:** Advanced architecture, systems design, and polishing my Japanese language skills.
 - ⚡ **Fun Fact:** "コードは言語である" — I believe code is just another beautiful language to master.
